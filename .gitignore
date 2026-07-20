@@ -1,0 +1,20 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# CatBoost
+catboost_info/
+
+# VS Code
+.vscode/
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Logs
+*.log
