@@ -11,6 +11,11 @@ This project explores multiple machine learning algorithms and ensemble techniqu
 The complete workflow includes data preprocessing, feature engineering, model training, hyperparameter tuning, ensemble learning, neural network implementation, and Kaggle submission.
 
 ---
+## Results
+
+Balanced Accuracy: 0.88415
+
+Public Leaderboard Score: 0.88233
 
 ## 🎯 Objectives
 
